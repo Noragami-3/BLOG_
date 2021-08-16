@@ -71,15 +71,11 @@ margin-top: 10px;
 
 
 #menu ul li .active-menu{
-            color: #fff;
-            border-radius: 5px 5px 0px 0px;
-            padding: 10px ;
-            text-decoration: none;
-            font-size: 20px;
-            }
-#menu ul li .active-menu:hover{
     background: #5858;
-}
+            color: #fff;
+            border-radius: 5px 5px 0px 0px
+            padding 10px ;
+            }
 
 
             #principal{
